@@ -47,8 +47,8 @@ root/
 │   ├── src/
 │   │   ├── models/     # Mongoose Schemas
 │   │   ├── routes/     # Express Routes
-│   │   ├── utils/      # CSV Import, Scoring Logic
-│   │   └── app.js      # Main Server Entry
+│   │   ├── scraping/      # CSV Import, Scoring Logic
+│   ── index.js      # Main Server Entry
 │
 └── README.md
 
