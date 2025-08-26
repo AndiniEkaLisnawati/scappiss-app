@@ -7,7 +7,7 @@ const Navigation = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const navLinks = [
-    { href: "/", label: "Home", icon: Home },
+    { href: "#hero", label: "Home", icon: Home },
     { href: "#scraper", label: "Scraper", icon: Globe2Icon },
     { href: "#service", label: "Service", icon: InfoIcon },
   ];
@@ -43,13 +43,7 @@ const Navigation = () => {
             })}
           </div>
 
-      
-          <div className="hidden md:flex items-center space-x-4">
-            <Button variant="outline" size="sm">
-              Admin Panel
-            </Button>
-          </div>
-
+    
      
           <div className="md:hidden">
             <Button
