@@ -32,6 +32,11 @@ Unlike traditional lead gen tools, this solution prioritizes **business impact**
 
 ---
 
+Dataset
+
+The dataset used for this project is sourced from <a href="https://www.kaggle.com/datasets/peopledatalabssf/free-7-million-company-dataset">Kaggle – 7+ Million Company Dataset</a>
+. It serves as the primary data source for building and testing the lead generation tool.
+
 ## 📂 Project Structure
 ```
 
