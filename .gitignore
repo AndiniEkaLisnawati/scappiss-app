@@ -1,0 +1,38 @@
+# Node & general
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Editor stuff
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# Env
+.env
+.env.*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Scraping CSV or big data
+*.csv
+*.zip
+*.tar
+*.gz
+

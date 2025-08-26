@@ -1,0 +1,22 @@
+Top 50 US Tech Companies 2022 - 2023.csv
+companies_sorted.csv
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Uploads (kalau ada)
+script/
