@@ -7,7 +7,7 @@ const cors = require('cors')
 app.use(express.json());
 
 const corsOptions = {
-  origin: 'http://localhost:5173', 
+  origin: 'https://scappiss-app.vercel.app/', 
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   credentials: true,
 };
